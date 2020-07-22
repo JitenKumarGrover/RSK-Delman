@@ -3205,7 +3205,7 @@ span.skill {
 	-------------------------------------------------------------------*/
 
 .testmonial_section {
-	background-image: url('../images/Truck5.jpg');
+	/* background-image: url('../images/Truck5.jpg'); */
 	/* background-color: yellow; */
 	background-size: cover;
 	padding-bottom: 185px;
